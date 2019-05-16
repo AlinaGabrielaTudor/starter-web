@@ -15,3 +15,5 @@ Bla bla
 Sample text
 
 ## How To Contribute
+
+2019 Git.Training
